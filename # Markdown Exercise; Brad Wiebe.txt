@@ -1,0 +1,33 @@
+# Markdown Exercise; Brad Wiebe
+
+There are a number of reasons I have decided to take Digital History (HIST5702) a few of which I have listed below:
+
+  - Digital skills for my CV and future employment
+  - General Interest in game-making and digital literacy
+  - Improving my knowledge of and capacity to navigate the digital world
+  - Acquiring a more critical eye for the digital world
+  - Fun
+
+My ignorance of programming languages, operating systems, softwares, file formats, etc. etc. etc. weighs on me constantly. Yet I always remember an inspiring quote from a great mind of the 20th century.  As the fictional [Dr. Emmett Brown] [Dr. Emmett Brown] [says] [df1]: > Weight's got nothing to do with it.
+
+! [The way to the Future] (https://upload.wikimedia.org/wikipedia/commons/5/5f/Dmc_de_lorean_1.jpg) "Delorean"
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [Dr. Emmett Brown]:<https://en.wikipedia.org/wiki/Emmett_Brown>
+   [@thomasfuchs]: <http://twitter.com/thomasfuchs>
+   [df1]: <http://www.imdb.com/character/ch0001831/quotes>
+   [marked]: <https://github.com/chjj/marked>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [keymaster.js]: <https://github.com/madrobby/keymaster>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
