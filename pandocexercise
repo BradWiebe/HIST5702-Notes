@@ -2,6 +2,7 @@
 title: My Very First Markdown 2 PDF Conversion
 author: Brad Wiebe
 date: January 25, 2016
+bibliography: bibliography-pandocexercise.bib
 ---
 
 #An image, a citation
@@ -9,7 +10,7 @@ date: January 25, 2016
 
 #__Groceries__
 -----------------
-## _A List by Brad Wiebe_
+## _A List by Brad Wiebe_ [wiebe_chapter_1919,77]
 ### Fruits
  * Apples
     * Green
