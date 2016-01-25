@@ -1,0 +1,23 @@
+---
+title: My Very First Markdown 2 PDF Conversion
+author: Brad Wiebe
+date: January 25, 2016
+---
+
+#An image, a citation
+![Free Willy](http://photography.naturestocklibrary.com/orca-stock-photo.jpg) [^1]
+
+#__Groceries__
+-----------------
+## _A List by Brad Wiebe_
+### Fruits
+ * Apples
+    * Green
+    * Red 
+ * Bananas
+###Veggies
+
+For a grocer near you, please visit [Facebook](http://facebook.com).
+
+#Bibliography
+[^1]: A Free, Free Willy
