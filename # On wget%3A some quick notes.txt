@@ -1,19 +1,40 @@
 # On wget: some quick notes
-## I understand the principles and tips the PRogHist is trying to convey with its tutorial on wget.
+## I understand the principles and tips the PRogHist is trying to convey with its tutorial on wget. The usefulness and extreme importance of the tools and skills the Tutorials attempt to bestow or not lost me. BUT OMFG, this is frustrating to get to work..
 
 That said, I am unsure of where my initial download of the ActiveHistory homepage has gone. I created a folder within my documents/GitHub
  but it doesnt appear there, **despite GitShell having said that it worked**. Scratch that, I do not believe it has worked. ProgHist says that there should be a message describing the fact that there was a download but instead it only seems to describe the site page itself and not an actual download of it. Even after re-downloading and moving around the wget app to make sure it was in the C:Windows location described by the ProgHist, it still doesn't work the way it says it would.
  
  Another problem has been that GitShell does not seem to understand the [--wait 2] command, and thus refuses to proceed with the second download step explained by the ProgHist Tutorial.
  
+ **Scratch it all**, we've figured it out. Power/GitShell is bad and doesn't understand commands and things. *Switched* to Command Prompt, SUCCESS (see below for Seminar notes).
+ ### Emily taught us how to get WGET to go through an entire .txt file containing the HTTP addresses of items we want downloaded --- Just list them and use command `wget my-list.txt`
+ wget download can be canceled with ctrl+c
+ 
  # On Data Mining Archives 
  ## A lot of trouble just downloading pip and getting it to work. Slack's #help channel helped after I read through Emily and Graham's exchange, but I still can't get sudo/pip to do my bidding. In fact, I'm a little suspicious as whether or not I actually downloaded pip because after I finally entered [C:\python27> .\python get-pip.py] it told me that [Requirement already up-to-date: pip in c:\python27\lib\site-packages] ---- hallejuah moment, the slack help feed has gotten me around my problems and I have now successfully used the [-m] command after the [.\python] command to use pip correctly and download internetarchive and pymarc.
  
- Encountered trouble with the internetarchive module after successful installation. went back to slack andd read through Sara & Graham's conversation which felt very familiar because I hhad to go through much the same problems as Sara
+ Encountered trouble with the internetarchive module after successful installation. went back to slack andd read through Sara & Graham's conversation which felt very familiar because I hhad to go through much the same problems as Sara.
+ 
+ SEE seminar notes below. InternetArchive still not understood after class though.
  
  (another note: Windows PowerShell won't always let me automatically use a program command, so sometimes I need to preface a command with .\)
  
  # On general impressions and thoughts
- ## My sincere apologies for a lack of adequate note-taking so far. Past go-throughs of the tutorials have been characterized by immense frustration and a general lack of complete success (just partial). My fear my note-taking will not be any prettier or structured as the current note; fingers-crossed that my notetaking will come in handy, be a useful record, and get me an adequate mark during my assessment.
+ ## My sincere apologies for a lack of adequate note-taking so far. Past go-throughs of the tutorials have been characterized by immense frustration and a general lack of complete success (just partial). I fear my note-taking will not be any prettier or structured as the current note; fingers-crossed that my notetaking will come in handy, be a useful record, and get me an adequate mark during my assessment.
  
  A note that others have made and that I have come to agree with on a spiritual level is that the PRogHist tutorials are extremely frustrating because the lack crucial info on and explanations of each step. Even just downloading something requires immense amounts of time to troubleshoot and figure, while the tutorial itself is written as if these are straightforward and commonsense. 
+ 
+ # On the seminar (For the Blog)
+ ## Currently learning about Graham's intentions for our blogs/notes: publishing online as a guide for future digital history learners to use to facilitate their own journey. I have become both excited about helping people through this frustrating process AND apprehensive about the fact that I will need to edit these notes so that they are comprehensible, presentable, and not embarassing.
+ 
+ Wget: Learnt the difference between UNIX vs. DOS vs. PowerShell --- Began using Command Prompt instead of PowerShell (GitBash might be another option). SUCCESS
+ 
+ (To successfully use) Python: Write .txt file with the Python commands (indentation matters,, use space bar ORRRR Tab key). Save it. Then tell python from command prompt to go to the file and it will read it.
+ 
+ InternetArchive stuff flew over my head in seminar. Headache, trouble listening. Inability to keep up and comprehend --- Blaming digital fatigue. 
+ 
+ # General Lessons, take-aways, and notes
+ ## * Paternalism of Institutions & Software makers/providers --- As this applies to my own professional public history context: I would not have been able to use these tools at my position at the Cdn Museum of History.
+ * The kind of Operating system and software (versions, dates) **MATTER**. These things also change frequently, out-dating happens often.
+ * It is vital when going through the digital learning process to have someone who has alrighty gone through it and is literate to help you (i.e. Graham, Blades)
+ 	* **Take pictures and screenshots along with detailed notes to keep track of what you've been doing;; for yourself and for those people helping you troubleshoot!!!!**
