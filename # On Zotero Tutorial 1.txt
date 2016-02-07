@@ -27,7 +27,7 @@ The Tutorial Commands for Windows are as follows (NOTE: capitalization matters a
 ## SUCCESS
 
 
-## (Notes prior to solution from Graham) Emily and I working together.
+## (Notes written prior to solution from Graham) Emily and I working together.
 Have successfully installed Zotero with Pyton Interpreter and `python -m pip install libzotero`
 
 Then copy/pasted:

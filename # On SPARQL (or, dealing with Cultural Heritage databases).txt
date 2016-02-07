@@ -1,0 +1,19 @@
+# On SPARQL (or, dealing with Cultural Heritage databases)
+## Learning to search through large, open databases with difficult datasets, like cultural heritage. RDF present info in series of 3-part statements with Subject, Predicate, and Object (i.e. c. (Tutorial has helpful visualizations that help explain why this system is helpful and how it is navigable). 
+
+Tutorial explains RDF/SPARQL's similiarity to Mad Libs. And how to search/query for various datasets. Also explains that REAL RDF presents info in more complicated way: <The Nightwatch>   <was created by>   <Rembrandt van Rijn>. would be
+ <http://data.rijksmuseum.nl/item/8909812347> <http://purl.org/dc/terms/creator> <http://dbpedia.org/resource/Rembrandt>.
+ 
+ From here the tutorial gets significantly confusing (i am sick afterall) in its explanation of REAL RDF, predicates, and prefixes that are used to make using these kinds of queries with SPARQL easier. 
+
+Got to the half-way point and just couldn't do it anymore. too tired
+
+**Important Notes**:
+* RDF databases: Resource Description Framework; a method of structuring data as a graph or network (in Excel or such things Palladio) rather than tables.
+* LOD: Linked Open Data is RDF data published online with dedicated URIs in such a manner that developers can reliably reference it.
+* SPARQL: SPARQL Protocol and RDF Query Language --> Language used to query RDF/LOD Databases like the British Museum and the Smithsonian
+* URI: Uniform Resource Identifiers - a string of characters for identifying a resource. RDF statements use URIs to link various resources together.
+* URL: Uniform Resource Locator (an URI that points to resources on the Web)
+* statement: Sometimes also called a “triple”, an RDF statement is a quantum of knowledge comprising a subject, predicate, and object.
+* literal: - Some objects in RDF statements do not refer to other resources with a URI, but instead convey a value, such as text ("Rembrandt van Rijn"), a number (5), or a date (1606-06-15). These are known as literals.
+* prefix: In order to simplify SPARQL queries, a user may specify prefixes that act as abbreviations for full URIs. These abbreviations, or QNames, are also used in namespaced XML documents.

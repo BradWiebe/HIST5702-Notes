@@ -1,0 +1,14 @@
+# On Zotero Tutorial 2
+## Began tutorial by installing the modules listed at the top.
+
+Next I connect to Zotero's sample library (I think) for the purposes of completing the tutorial.
+
+Now let's create a new item and assign it some metadata, using CREATE and NAME commands found in the tutorial. More metadata is added, such as an abstract note and the date.
+
+After this, we (apparently) actually create the item, with a 'writeFailure' method of checking if we are successful or not. *This part got a little tricky* with the indent needed for the 'print' commands and the '...' that followed such inputs. When you're finished entering the indented 'print' commands you just press Enter and the '...' should revert back to the Python Interpreter prompt. 
+
+Now we can add tags in much the same way. 
+
+It would appear, at least in the Command Prompt, that everything has worked.. However, I did not receive the desired output, nor did find my newly created item in my Zotero library through the desktop program..
+
+**AN IMPORTANT NOTE**: All of this can be made easier if you write a script/sequence (in a .txt file) with all the commands in the correct order and then send Python to go and read and implement it. It is best to try out a tutorial one command at a time to start off, but multiple and regular usage of python makes using the script method more ideal. 

@@ -1,0 +1,4 @@
+# On APIs, Sparql, and Zotero
+## SEE: 3907 exercise book Module 2. Read about API. but don't bother doing the things
+
+SEE: Other indivual notes on Application Programming Interfaces (APIs), Zotero, and Sparql
