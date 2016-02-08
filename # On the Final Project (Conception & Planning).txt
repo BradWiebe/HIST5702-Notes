@@ -1,0 +1,12 @@
+# On the Final Project (Conception & Planning)
+## In keeping with Prof. Graham's wishes (i.e. using Twine as a method for instructing/introducing digital history to the digitally illiterate), my idea is to get a team of Windows-users together to create a number of Twines that function as walkthroughs for various Public Historian Tutorials we have been completing in class, but that help users get through Windows-related hiccups, commonly-encountered problems, and the "hidden gotcha's."
+
+This can/will be informed by our logs/notes, Hypothes.is annotations, seminar experiences, various tools & tricks we have learned along the way, and many others.
+
+Included in the Twines will be a gloassary of items, codes, programs , ALL explained in layman's terms.
+In fact, the whole project will be written towards an audience unfamiliar with . Simple explanations, tools, and tricks would all be offered. 
+
+
+The upsides of this kind of project from my own perspective:
+* Feasibility
+* Offering a more straight forward method of learning from the Programming Historian that takes the problems illiteracy, Users, and Operating systems into account (more or less); this is exactly the kind of thing I wish I had had access to during my go-throughs of the tutorials.
