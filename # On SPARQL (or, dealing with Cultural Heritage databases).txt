@@ -4,9 +4,20 @@
 Tutorial explains RDF/SPARQL's similiarity to Mad Libs. And how to search/query for various datasets. Also explains that REAL RDF presents info in more complicated way: <The Nightwatch>   <was created by>   <Rembrandt van Rijn>. would be
  <http://data.rijksmuseum.nl/item/8909812347> <http://purl.org/dc/terms/creator> <http://dbpedia.org/resource/Rembrandt>.
  
- From here the tutorial gets significantly confusing (i am sick afterall) in its explanation of REAL RDF, predicates, and prefixes that are used to make using these kinds of queries with SPARQL easier. 
+ From here the tutorial gets significantly confusing (i am sick after all) in its explanation of REAL RDF, predicates, and prefixes that are used to make using these kinds of queries with SPARQL easier. 
 
 Got to the half-way point and just couldn't do it anymore. too tired
+Seminar with Phoebe:
+* Stresses point of SPARQL being about the relationships between search items.
+* Tutorial is just a go through and you may go through it without actually learning anything.
+* It is hard to do effective queries without being initially familiar with the database's collection.
+* It can be difficult to actually make searches/queries because the prefixes can be a little confusing, even with a table showing all the available options for prefixes.
+
+* Palladio as a way to display the info we collect through SPARQL queries.
+
+
+
+
 
 **Important Notes**:
 * RDF databases: Resource Description Framework; a method of structuring data as a graph or network (in Excel or such things Palladio) rather than tables.
@@ -17,3 +28,16 @@ Got to the half-way point and just couldn't do it anymore. too tired
 * statement: Sometimes also called a “triple”, an RDF statement is a quantum of knowledge comprising a subject, predicate, and object.
 * literal: - Some objects in RDF statements do not refer to other resources with a URI, but instead convey a value, such as text ("Rembrandt van Rijn"), a number (5), or a date (1606-06-15). These are known as literals.
 * prefix: In order to simplify SPARQL queries, a user may specify prefixes that act as abbreviations for full URIs. These abbreviations, or QNames, are also used in namespaced XML documents.
+
+**Laurel Solution**:
+'# My Edited SPARQL Query
+​
+# to run the prefix ecrm, you must include CIDOC-CRM Ontology
+PREFIX ecrm: <http://erlangen-crm.org/current/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+SELECT ?object
+WHERE {
+# searching for all objects that have a common "person or institution"
+  ?object ecrm:P51_has_former_or_current_owner ?person_institution .
+  ?object_type skos:prefLabel "print" .
+}'

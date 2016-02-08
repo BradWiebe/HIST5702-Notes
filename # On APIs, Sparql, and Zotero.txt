@@ -1,4 +1,7 @@
 # On APIs, Sparql, and Zotero
 ## SEE: 3907 exercise book Module 2. Read about API. but don't bother doing the things
 
+
+## Zotero for collecting sources and excavating their data in bulk. 
+
 SEE: Other indivual notes on Application Programming Interfaces (APIs), Zotero, and Sparql
