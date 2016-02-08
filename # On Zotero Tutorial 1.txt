@@ -4,7 +4,7 @@ You want to enter `python -m pip install win_unicode_console` into the Command L
 
 After a successful install you will go into your Python interpreter with the simple command `Python`
 
-Next you will want to import and enable, first with `import win_unicode_console` and then `win_unicode_console.enable()`
+Next you will want to import and enable, first with `import win_unicode_console` and then `win_unicode_console.enable()` . Graham desribed this in seminar as being way of allowing your Windows Command Line of understanding a different font (i.e. a different programming dialect/language).
 
 ### Unicode will help your machine understand what we will be doing with Zotero and prevent the hiccups that Emily & I encountered with Professor Graham. Now you can follow the slightly different process outlined below to go through the Tutorial. There are a few nuances over when and how you input the commands shown by the tutorial
 
