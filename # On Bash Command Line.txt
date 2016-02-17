@@ -1,0 +1,38 @@
+# On Bash Command Line
+## Explaining GUI (Graphical-User Interface) and how they have replaced the command line in the mainstream. Command Line was the OG way of using computers and it can be much more precise and thus useful. 
+
+
+For example, they can sdd modifiers to specify exactly what you want to do, AND use scripts. 
+
+
+However, there are differences between Operating Systems. OSX/Linux use Bash, while Windows uses MS-DOS. These Command Lines (Shells) have different commands and syntaxes. 
+
+This tutorial introduces useful commands: **navigate through your file system and find files, open them, perform basic data manipulation tasks such as combining and copying files, as well as both reading them and making relatively simple edits.**
+
+
+Teaches the 'ls' command, along with "flags" that help sort through the file directory. **Note**: the 'man ls' does not work for windows. Use 'help' instead, which isn't as good (**DOES NOT SHOW EXTRA COMMANDS FOR ls** such as the specified search command 'ls *.filetype', 'ls -l', or 'ls -lh').
+
+Teaches the 'cd' command, along 'cd ..' & 'cd --', 'explorer .', AND other navigation commands that were not exactly the most obvious, but it is easy enough to get around. explorer, cat, head, tail all let you look at and open programs/files. mv lets you rename, cp lets you create a duplicate under a new name. cat lets you combine files. 
+
+*Now the tutorial is trying to sell me on the idea of working solely through the command line as opposed to through the GUI (not gonna happen...)*. 'mkdir filename' creates a new directory. Hitting the TAB button makes the computer try to auto-complete your command. 
+
+The up arrow allows you to cycle through the last few commands you have used. * and ? are placeholders/wildcards. 
+
+Next up is an explanation of vim and a way of reading, edting, navigating txt files from the command line. Unless they can really sell me on this idea of using the Command Line instead of a GUI, I really don't want to bother with this part..
+
+rm removes files, for good..
+
+
+### pwd: Prints the 'present working directory,’ letting you know where you are. 
+ls; Lists the files in the current directory 
+man *; Lists the manual for the command, substituted for the * 
+cd *; Changes the current directory to * 
+mkdir *; Makes a directory named * 
+open or explorer; On OS X, open followed by a file opens it; in Windows, the command explorer followed by a file name does the same thing. 
+cat *; cat is a versatile command. It will read a file to you if you substitute a file for *, but can also be used to combine files. 
+head *; Displays the first ten lines of * 
+tail *; Displays the last ten lines of * 
+mv; Moves a file 
+cp; Copies a file 
+rm; Deletes a file 
+vim; Opens up the vim document editor 

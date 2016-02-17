@@ -1,0 +1,16 @@
+# On Regular Expressions
+## Using advanced find-and-replace capabilities in a Word Processer to turn certain kinds lists, written data, patterns into a spreadsheet table.
+
+More searching, examples like dates: “18[5-9][0-9]” to effectively match any year from 1850 to 1899.
+
+I have downloaded LibreOffice (kind of just like Microsoft Office, but free) and have pasted an InternetArchive test example into the word processor and spreadsheet apps. Have learn the ctrl+h Find & Replace trick with Regular Expressions (ctrl+a to select all and ctrl+z to undo). 
+
+I start encountering problems during the find/replace section. There are actually more than 280 instances of $ of being replaced as opposed to the approximate 230 stated in the tutorial. When I copy/paste my newly edited text into the spreadsheet app, it does not neatly put everything into rows. It is all just stuck in the first two lines.
+
+Thus, the so-called paragraphs I was organizing the text into did not work or appear. 
+
+While the \t find&replace worked, I am still having trouble with the spreadsheet. The \t separations have worked, but the re-structuring is incomplete without successfully completing the last step (i.e. the $ replacing)
+
+**Note**: Regular expressions (or “regexes” for short) are a way of defining patterns that can apply to sequences of things.
+
+**BLOG**: This would have been very helpful in dealing with the Committee report I had to work with at the CDN History Museum. 

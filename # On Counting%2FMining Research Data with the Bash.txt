@@ -1,0 +1,24 @@
+# On Counting/Mining Research Data with the Bash
+## Apparently I will be able to do things Microsoft Excel could only dream of with the commands taught in this tutorial.
+
+An important note in counting/mining: offering up lots of metadata and organizing in a consistent and logical matter help a lot. 
+
+I have just downloaded the practice file that the tutorial will be teaching me to count and mine.
+The 'wc' command counts things. > documents the results.
+
+The 'grep' command (global regular expression print) is used to search across multiple files for specific strings of characters. Different flags allow for different things. -c again does the character count. -i does a case insensitive count. -v excludes. 
+
+> allows for the "printing" of results.
+
+I can create printouts of data with both .csv & .tsv files (notes vs. excel spreadsheets)
+
+
+**NOTE**:
+CSV: comma-separated-values
+TSV: Tab-separated-values
+
+WC: command for counting. combined with the flags -w, -l, -c for word, line, and character counts respectively. You can also use wc with a combination of wildcards and flags to build more complex queries
+
+-v; excludes something from a search
+
+DO NOT forget about the Cancel command, ctrl+c
