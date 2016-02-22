@@ -1,0 +1,33 @@
+# Official Blog Post #1
+## First, Second, and Third Impressions
+### As some of my colleagues may agree, I was not entirely sure what to expect of this course and its orientation. At first I imagined it might be some combination of instruction in **the** History of digital things and computers, in methods of doing/thinking historical things digitally, and in applying a critical and theoretical eye to both: the kind of format that some of my other historiography and public history courses have taken in the past. I had been very interested in learning about the digital revolution in a traditional 1950s to present narrative manner, and may well do just that on my own time in the near future. I had especially hoped to focus on popular historical representation in digital settings and media like games, webseries, wikipedia, etc.
+
+However, I was initially delighted to learn that our emphasis would be on skills development and getting acquainted with digital tools and languages. As I remarked upon in the very first class, I have a strong desire to become more comfortable and adept in the digital world for both professional reasons and general/genuine interest. And while the structure of the course had thrown me off a little, I have not been disappointed in terms of the content and kinds of things I was hoping to be exposed to. In fact, I have come to really appreciate the 3-tutorials per week approach, despite the numerous problems we have all brought up in class.
+
+
+With all of that said though, my general experience of peripherally dabbling in the digital humanities has been characterized by what I like to call the Three Fs: frustration, fatigue, and failure. 
+
+* Frustrated at:
+  - the labour-intensiveness of not just learning, internalizing, and mastering these skills, but of simply downloading and opening things and of successfully getting through the tutorials.
+  
+  - the vast amount of time it takes to get through any of the tutorials compared to the percent chance I will ever end up using a particular skill that I have learnt from it (while I am skeptical about whether I actually will use them, that is not something I can entirely predict at this time. For all I know I will be very appreciative for having put in the time now as opposed to later).
+  
+  - the differences between operating systems, flavours of different things, and all the silly little hiccups I experience as a Windows User. 
+  
+  - **Edit** the fact that Resoph Notes just erased another full blog post I had finished before I could save it..
+
+* Fatigued from:
+  - just how long all of this takes.
+  
+  - looking at a screen all day (Note to self, take more breaks).
+  
+  - using my brain in ways that I am not used to.
+  
+* Failure, due to:
+  - unsuccessful attempts to figure things out.
+  
+  - simply giving up in desperation becaused I was too fatigued and frustrated.
+
+While a lot of these bullet points sound fairly negative and pejorative, they aren't necessarily bad. As well, my experiences have always been accompanied by an understanding of why these are useful skills and fruitful endeavours and by a deep respect for the people who bother to dabble in them. And perhaps I am not fully appreciating the incremental nature of learning and skills acquistion. After all, I am writing this blog post in (very simple) Markdown, having it pushed to Github for public visibility, and can now do (or fail to do) a variety of useful things that I did not thing I would be able to just a few weeks ago. 
+
+Upwards and onwards..
