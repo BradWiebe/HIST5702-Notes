@@ -1,0 +1,14 @@
+# On Palladio
+## a web-based visualization tool for complex humanities data. A sort of buggy Swiss Army Knife for looking at data in a variety of ways. Works SLOW, slowww.
+
+* When to use: you have structured data (spreadsheeted); you're interested in time, space, and relationships; and your data has many attributes. 
+
+* When not to use: you have unstructured data; you just want to count; you want to present a (interactive) visualization (i.e. not good for presentation yet); you want to create CUSTOMIZED, complex, fine-tuned maps/networks graphs.
+
+## 
+
+## This tutorial does not cover some important features like its ability to link multiple data tables together, its timespan feature, and a feature that allows you to use multiple basemaps.
+
+**BLOG**: Again, this program may have been very useful during my time at the Museum, esp. with the excel spreadsheet that contained the foreign relations correspondence
+
+http://cushmangram.com/
