@@ -1,8 +1,7 @@
 # On wget: some quick notes
 ## I understand the principles and tips the PRogHist is trying to convey with its tutorial on wget. The usefulness and extreme importance of the tools and skills the Tutorials attempt to bestow or not lost me. BUT OMFG, this is frustrating to get to work..
 
-That said, I am unsure of where my initial download of the ActiveHistory homepage has gone. I created a folder within my documents/GitHub
- but it doesnt appear there, **despite GitShell having said that it worked**. Scratch that, I do not believe it has worked. ProgHist says that there should be a message describing the fact that there was a download but instead it only seems to describe the site page itself and not an actual download of it. Even after re-downloading and moving around the wget app to make sure it was in the C:Windows location described by the ProgHist, it still doesn't work the way it says it would.
+That said, I am unsure of where my initial download of the ActiveHistory homepage has gone. I created a folder within my documents/GitHub but it doesnt appear there, **despite GitShell having said that it worked**. Scratch that, I do not believe it has worked. ProgHist says that there should be a message describing the fact that there was a download but instead it only seems to describe the site page itself and not an actual download of it. Even after re-downloading and moving around the wget app to make sure it was in the C:Windows location described by the ProgHist, it still doesn't work the way it says it would.
  
  Another problem has been that GitShell does not seem to understand the [--wait 2] command, and thus refuses to proceed with the second download step explained by the ProgHist Tutorial.
  
@@ -11,7 +10,7 @@ That said, I am unsure of where my initial download of the ActiveHistory homepag
  wget download can be canceled with ctrl+c
  
  # On Data Mining Archives 
- ## A lot of trouble just downloading pip and getting it to work. Slack's #help channel helped after I read through Emily and Graham's exchange, but I still can't get sudo/pip to do my bidding. In fact, I'm a little suspicious as whether or not I actually downloaded pip because after I finally entered [C:\python27> .\python get-pip.py] it told me that [Requirement already up-to-date: pip in c:\python27\lib\site-packages] ---- hallejuah moment, the slack help feed has gotten me around my problems and I have now successfully used the [-m] command after the [.\python] command to use pip correctly and download internetarchive and pymarc.
+ ## A lot of trouble just downloading pip and getting it to work. Slack's #help channel helped after I read through Emily and Graham's exchange, but I still can't get sudo/pip to do my bidding. In fact, I'm a little suspicious as to whether or not I actually downloaded pip because after I finally entered [C:\python27> .\python get-pip.py] it told me that [Requirement already up-to-date: pip in c:\python27\lib\site-packages] ---- hallejuah moment, the slack help feed has gotten me around my problems and I have now successfully used the [-m] command after the [.\python] command to use pip correctly and download internetarchive and pymarc.
  
  Encountered trouble with the internetarchive module after successful installation. went back to slack andd read through Sara & Graham's conversation which felt very familiar because I hhad to go through much the same problems as Sara.
  

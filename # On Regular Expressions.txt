@@ -13,7 +13,7 @@ While the \t find&replace worked, I am still having trouble with the spreadsheet
 
 **Note**: Regular expressions (or “regexes” for short) are a way of defining patterns that can apply to sequences of things.
 
-**BLOG**: This would have been very helpful in dealing with the Committee report I had to work with at the CDN History Museum. 
+**BLOG**: This would have been very helpful in dealing with the Committee report I had to work with at the CDN History Museum. **EDIT: Decided otherwise. I cannot actually think of how the Regexes would have been able to sort through the report.
 
 
 
@@ -23,3 +23,5 @@ Go look at Slack for Sara Hollet's question when you come back to this..
 
 # Joel's in-class Walkthrough
 ## Stick to your editor and get used to its syntax. The tutorial is very specific to the text that was copied. It would be a lot tougher to apply this to your own context. 
+
+Basically what I remember post-mortem is that this would be extremely useful, but it is next to impossible to get it to really work and to work for you.
