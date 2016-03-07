@@ -1,0 +1,30 @@
+# Official Blog Post #4
+## Conceptualizing the "Windows Programming Historian Twine"
+### In keeping with Prof. Graham's wishes for us to employ Twine as a means for introducing and instructing digital humanities skills and knowledge to the digitally illiterate historian, my idea is to gather a team of Windows-users together to create a number of Twines that function as walkthroughs for various Public Historian Tutorials we have been completing in class,
+
+In essence I want to create the tutorial that I, an impatient and somewhat lazy Windows-User, would have preferred to use in the first place. As well, I have learned through reading all of the posts in our Slack channels that it is vital when going through the digital learning process to have someone who has alrighty gone through it and is literate to help you. Surprisingly enough, my Twine may serve that role for someone else.
+
+
+but that help users get through Windows-related hiccups, commonly-encountered problems, and the "hidden gotcha's."
+
+This can/will be informed by our logs/notes, Hypothes.is annotations, seminar experiences, various tools & tricks we have learned along the way, and many others.
+
+Included in the Twines will be a gloassary of items, codes, programs , ALL explained in layman's terms.
+In fact, the whole project will be written towards an audience unfamiliar with . Simple explanations, tools, and tricks would all be offered. 
+
+
+* On a personal note, what draws me to a project of this nature is its feasibility and the..... Offering a more straight forward method of learning from the Programming Historian that takes the problems illiteracy, Users, and Operating systems into account (more or less); this is exactly the kind of thing I wish I had had access to during my go-throughs of the tutorials.
+
+
+After these twin goals of addressing Windows problems and simplifying the user experience, the project will obviously also be influenced by our teams 
+
+All of this is of course simply brainstorming. Now its a matter of sitting down with my colleagues and actually hammering it out and mapping the User-experience.
+
+
+
+
+ A note that others have made and that I have come to agree with on a spiritual level is that the PRogHist tutorials are extremely frustrating because the lack crucial info on and explanations of each step. Even just downloading something requires immense amounts of time to troubleshoot and figure, while the tutorial itself is written as if these are straightforward and commonsense.... xcited about helping people through this frustrating process
+ 
+ 
+ 
+  * The kind of Operating system and software (versions, dates) **MATTER**. These things also change frequently, out-dating happens often.
