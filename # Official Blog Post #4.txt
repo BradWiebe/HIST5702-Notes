@@ -1,13 +1,10 @@
 # Official Blog Post #4
 ## Conceptualizing the "Windows Programming Historian Twine"
-### In keeping with Prof. Graham's wishes for us to employ Twine as a means for introducing and instructing digital humanities skills and knowledge to the digitally illiterate historian, my idea is to gather a team of Windows-users together to create a number of Twines that function as walkthroughs for various Public Historian Tutorials we have been completing in class,
+### In keeping with Prof. Graham's wishes for us to employ Twine as a means for introducing and instructing digital humanities skills and knowledge to the digitally illiterate historian, my idea is to gather a team of Windows-users together to create a number of Twines that function as walkthroughs for various Public Historian Tutorials we have been completing in class and that helps users get through Windows-related hiccups, commonly-encountered problems, and the "hidden gotcha's."
 
-In essence I want to create the tutorial that I, an impatient and somewhat lazy Windows-User, would have preferred to use in the first place. As well, I have learned through reading all of the posts in our Slack channels that it is vital when going through the digital learning process to have someone who has alrighty gone through it and is literate to help you. Surprisingly enough, my Twine may serve that role for someone else.
+In essence I want to create the tutorial that I, an impatient and somewhat lazy Windows-User, would have preferred to use in the first place. As well, I have learned through reading all of the posts in our Slack channels that it is vital when going through the digital learning process to have someone who has alrighty gone through it and is literate to help you. As surprising as it is to even consider calling myself literate, my Twine may serve that role for someone else which would make me proud.
 
-
-but that help users get through Windows-related hiccups, commonly-encountered problems, and the "hidden gotcha's."
-
-This can/will be informed by our logs/notes, Hypothes.is annotations, seminar experiences, various tools & tricks we have learned along the way, and many others.
+This can/will be informed by our logs/notes, any existing Hypothes.is annotations, seminar experiences, various tools & tricks we have learned along the way, and many others.
 
 Included in the Twines will be a gloassary of items, codes, programs , ALL explained in layman's terms.
 In fact, the whole project will be written towards an audience unfamiliar with . Simple explanations, tools, and tricks would all be offered. 
