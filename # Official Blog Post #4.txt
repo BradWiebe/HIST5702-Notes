@@ -1,27 +1,9 @@
 # Official Blog Post #4
 ## Conceptualizing the "Windows Programming Historian Twine"
-### In keeping with Prof. Graham's wishes for us to employ Twine as a means for introducing and instructing digital humanities skills and knowledge to the digitally illiterate historian, my idea is to gather a team of Windows-users together to create a number of Twines that function as walkthroughs for various Public Historian Tutorials we have been completing in class and that helps users get through Windows-related hiccups, commonly-encountered problems, and the "hidden gotcha's."
+### In keeping with Prof. Graham's wishes for us to employ Twine as a means for introducing and instructing digital humanities skills and knowledge to the digitally illiterate historian, my idea for the final project is to gather a team of Windows-users together to create a number of Twines that function as walkthroughs for various Public Historian Tutorials we have been completing in class and that helps users get through Windows-related hiccups, commonly-encountered problems, and the "hidden gotcha's." I want to take a layman's approach, in terms of language, explanation, simplicity, and ease of use. A note that others have made and that I have come to agree with on an almost spiritual level is that the PRogHist tutorials are extremely frustrating because they sometimes lack crucial info and explanations of each step. Even just downloading something requires immense amounts of time to troubleshoot and figure out, while the tutorial itself is written as if these are straightforward and common sense.
 
-In essence I want to create the tutorial that I, an impatient and somewhat lazy Windows-User, would have preferred to use in the first place. As well, I have learned through reading all of the posts in our Slack channels that it is vital when going through the digital learning process to have someone who has alrighty gone through it and is literate to help you. As surprising as it is to even consider calling myself literate, my Twine may serve that role for someone else which would make me proud.
+In essence I want to create the tutorial that I, an impatient and somewhat lazy Windows-User, would have preferred to use in the first place. One tailored to specific user-selected tasks, to being colloquial and easy to understand, to require minimal time, and to (trying to) save users from inevitable frustrations. It will bare in mind the illiteracy of its users. My future post on the Twine application will deal with its many creative possibilities and powers, but my vision for this project is much more modest and intended to be more functional and feasible than experimental/experiential.
 
-This can/will be informed by our logs/notes, any existing Hypothes.is annotations, seminar experiences, various tools & tricks we have learned along the way, and many others.
+In terms of lessons and directions going forward, the project will be informed by our logs/notes, any existing Hypothes.is annotations, seminar experiences, various tools & tricks we have learned along the way, the obstacles and problems we have had to surmount, our own interests, and many others. As well, I have learned through reading all of the posts in our Slack channels that it is vital when going through the digital learning process to have someone who has alrighty gone through it and is literate to help you. As surprising as it is to even consider calling myself "literate," my Twine may serve that role for someone else, which would make me quite proud.
 
-Included in the Twines will be a gloassary of items, codes, programs , ALL explained in layman's terms.
-In fact, the whole project will be written towards an audience unfamiliar with . Simple explanations, tools, and tricks would all be offered. 
-
-
-* On a personal note, what draws me to a project of this nature is its feasibility and the..... Offering a more straight forward method of learning from the Programming Historian that takes the problems illiteracy, Users, and Operating systems into account (more or less); this is exactly the kind of thing I wish I had had access to during my go-throughs of the tutorials.
-
-
-After these twin goals of addressing Windows problems and simplifying the user experience, the project will obviously also be influenced by our teams 
-
-All of this is of course simply brainstorming. Now its a matter of sitting down with my colleagues and actually hammering it out and mapping the User-experience.
-
-
-
-
- A note that others have made and that I have come to agree with on a spiritual level is that the PRogHist tutorials are extremely frustrating because the lack crucial info on and explanations of each step. Even just downloading something requires immense amounts of time to troubleshoot and figure, while the tutorial itself is written as if these are straightforward and commonsense.... xcited about helping people through this frustrating process
- 
- 
- 
-  * The kind of Operating system and software (versions, dates) **MATTER**. These things also change frequently, out-dating happens often.
+The issue that I envision being a thorn in our sides is developping a complex, multi-dimensional Twine that is an experience on at least some level. To really take advantage of the application and create something of value we will need to strive for something more than a simple A,B,C narrative-walkthrough of PH tutorials. All of this is of course simply brainstorming. Now its a matter of sitting down with my colleagues and actually hammering it out and mapping the User-experience.
