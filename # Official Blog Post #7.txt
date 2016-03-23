@@ -1,3 +1,34 @@
 # Official Blog Post #7
 ## On Social Networking
 ### Take notes during Elise's presentation, maybe bring in Google tracking, knowing
+
+
+Facebook and its social network
+
+Anthony Gibbons (networks constrains actions, actions constrain networks; circular phenomenon)
+
+
+
+
+
+Class: 
+
+All about the Nodes and their links/connections/edges. Only measures between 'like' nodes are valid (student vs. teacher example. Bipartite). 
+Network members usually know all the same people (the 'you may know' feature of Facebook). Directed links: sending letters to person X example. Networks useful for studying information flows / mobility between peoples / within networks. 
+
+If Nodes are institutions or places, for example, edges can be people. 
+
+Check Elise's presentation
+
+Big difference between Visualization & Analysis
+
+
+
+Net Logo Web: Preferential Attachment simulation (centrality is key to popularity). Segregation simulator. 
+
+
+
+
+Schedule: Elise & Social Network Visualization (DEFINITELY NOT ANALYSIS)
+Social Network Analysis
+A-based Modeling - Simulation (Peter Holdsworth Example --- Gephu.org)
