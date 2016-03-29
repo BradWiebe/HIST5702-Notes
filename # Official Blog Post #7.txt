@@ -1,34 +1,17 @@
 # Official Blog Post #7
-## On Social Networking
-### Take notes during Elise's presentation, maybe bring in Google tracking, knowing
+## On the Museum engagement in the 21st century
+### I recently attended an event hosted by the Canada Science and Technology Museum called "Let's Talk Gaming." The event brought together professors, game developpers, postsecondary students, children, business journalists, and many others to a pub for a series of presentations about the social, cultural, and educational nature and possibilities of video games. 
 
+The event was covered over Twitter (the Museum was happy to receive as much exposure as possible), using the hashtag #talkgaming. Emily Keyes, a colleague of mine, and I were the most prolific tweeters. You can get a good sense of the speakers' main points by checking out the hashtag, but I have put together a [representative sample](https://storify.com/BradWieb3/science) for your perusal. 
 
-Facebook and its social network
+I won't bother to reiterate their points here for you, I will let you check them out yourself. I especially agree and identify with Graham and Schmitz's points on the importance of games to learning and social interaction and I am glad that the Museum has given them a platform to share their ideas and start important and engaging public conversations.
 
-Anthony Gibbons (networks constrains actions, actions constrain networks; circular phenomenon)
+Instead, I would like to take this space to briefly comment on the extra-curricular efforts that Museums have been expending to further engage and broaden their audiences. Due to the closing of their primary facility, the CSTM has been forced to get creative and agressive to stay relevant and in the public eye. This has involved more digital content, as well as a soon-to-be-unveiled travelling exhibit on video games. "Let's Talk Gaming" was just another in a long line.
 
+But the CSTM is not the only museum that has had to deal with absentee audiences. In fact, recently museums have had a lot more to worry about than just temporary building closures. A deadly combination of general public disinterest and a lack of government funding have put some of these institutions into ever more precarious positions. I would hazard a guess that apart from neo-liberal economic policies on the budgetary end of things, part of the reason museums find themselves in this position is the public's digital access to information and experiences. They no longer need to visit the museum as a site of knowledge or for a rewarding experience they cannot get anywhere else.
 
+But at the same time it would appear that part of the solution to this problem is through the digital as well. Museums are leaning more and more on social media as an engagement tool like so many other corporate entities. Millenials are becoming a key, target demographic and successfully communicating with them involves social media, among other things. In fact, I would hazard another guess that events like "Let's Talk Gaming" which was held at pub and the Museum of Nature's monthly "Nature Nocturn" events (essentially massive parties with alcohol, karaoke, live music, and themes) are museums' way of staying "hip" for this particular demographic. 
 
+As disquieting as these trends can be, I find hope in them. I love museums, but I also love that they are being forced out of their shells, are getting innovative, and are trying new things, for better or worse.
 
-
-Class: 
-
-All about the Nodes and their links/connections/edges. Only measures between 'like' nodes are valid (student vs. teacher example. Bipartite). 
-Network members usually know all the same people (the 'you may know' feature of Facebook). Directed links: sending letters to person X example. Networks useful for studying information flows / mobility between peoples / within networks. 
-
-If Nodes are institutions or places, for example, edges can be people. 
-
-Check Elise's presentation
-
-Big difference between Visualization & Analysis
-
-
-
-Net Logo Web: Preferential Attachment simulation (centrality is key to popularity). Segregation simulator. 
-
-
-
-
-Schedule: Elise & Social Network Visualization (DEFINITELY NOT ANALYSIS)
-Social Network Analysis
-A-based Modeling - Simulation (Peter Holdsworth Example --- Gephu.org)
+So perhaps I am reading a bit too much into it, but I believe that "Let's Talk Gaming" represents a potentially hopeful new trend where museums like Science & Tech actively venture out of their own buildings to  encourage their audiences and the general public at large to get even more critical than would have before, had they simply visited the museum space and consumed the museum's traditional content.
