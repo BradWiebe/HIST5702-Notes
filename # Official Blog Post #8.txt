@@ -1,3 +1,18 @@
 # Official Blog Post #8
-## Final Project Reviews; Twine as a Platform (Post-game playing seminar)
-### My colleagues have not disappointed with their Twines/projects
+## On our Final Projects: a brief review/stream of consciousness
+### After leaving class on Monday (April 4th), I came away fairly impressed with what my colleagues had accomplished, all things considered. However modest of an improvement, we have all come away from this class with skills and ways of thinking that will assist us in (inter)acting in what iss now a slightly less uncertain digital landscape. This fact shined through in the projects and in their little successes at explaining and facilitating learning about the tools/methods we've all picked up during the past three months.
+
+Emily, Laurel: Map... Rob: OCR, vocal recognition, ocr. 
+
+With that said, I was disappointed that we had mostly all made twines as opposed to something different like Rob's project. I was also a little concerned that all of our projects were fairly similiar in outlook and format. We may have accidentally catered to ourselves, something we criticized the Programming Historian of doing and wanted to avoid at all costs. I fear we have written tutorials for us and not for a "them."
+
+Sara, really directed at us as a class. Final examination type thing.
+
+
+What I'm really interested in after all of this is whether our attempts to introduce digital history to the users of our twines are actually successful, as well as if we can attribute this success to the "engagement" element. I get the sense that I might only appreciate these projects and their faciliation of learning because I am already familiar with the subject matter and because the appear to be an improvement on the more monotonous Programming Historian tutorials. Would these twines be anymore helpful if we got others to test them out? I'm not too sure, to be completely honest... On the other hand I sense that any success we have in converting the uninitiated to the ways of digital history will be due to the interactivity of the twine platform, which, again, cuts through the monotony of the some of the learning process.
+
+In this regard, I am very excited to hold my day-long twitter session covering my, Sara, and Kelly's tutorial game and the two play-testers I'll be sitting down with. 
+
+Not to mention Rob's digital Telephone game involving OCR and audio recognition software.
+
+
